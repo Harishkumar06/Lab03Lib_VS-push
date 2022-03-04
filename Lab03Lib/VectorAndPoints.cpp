@@ -68,5 +68,5 @@ void myPoint::PointSum(int x, int y, int z, int* sumx, int* sumy, int* sumz) {
 }
 
 void::myPoint::PointColor() {
-	cout << "Point Color is red!" << endl;
+	cout << "Point Color is colorful, it is made of all the seven colors!" << endl;
 }
